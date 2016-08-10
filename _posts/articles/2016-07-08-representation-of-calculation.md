@@ -1,14 +1,15 @@
-﻿---
+---
 layout: post
-title: "C++ Primer 5 第七章 类"
-excerpt: "记录学习C++ Primer 5过程中遇到的问题及解决方法，本文为书本第七章内容总结（含课后习题答案）。"
-date: 2016-08-10
-modified: 2016-08-10
+title: 计算的表示
+excerpt: "计算不是计算机，计算也不是 1 + 2，它是一个更为本质的东西。通过用 lambda 演算来描述计算可以从另一个角度对其进行理解。"
+date: 2016-07-08
+modified: 2016-07-27
 categories: articles
-author: yan
+author: ktn
 tags:
-  - C++
-  - 类
+  - Funcation Programming
+  - Theory
+  - Lisp
 comments: true
 share: true
 ---
