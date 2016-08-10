@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Null 值及其处理方式
-excerpt: "讨论 null 值的由来及几种典型的表示方式和处理方式。"
+title: C++  aaaaa
+excerpt: "讨论 C+++。"
 categories: articles
 author: ktn
 date: 2016-07-22
 modified: 2016-07-23
 tags:
-  - Type System
-  - Java
-  - Scala
-  - Kotlin
+  - C++
+  - 测试
 comments: true
 share: true
 ---
